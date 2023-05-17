@@ -1,0 +1,33 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\balok\balok\bin\Debug\balok.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\balok\balok\bin\Debug\balok.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\balok\balok\bin\Debug\balok.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\balok\balok\bin\Debug\balok.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\balok\balok\obj\Debug\balok.vbprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\balok\balok\obj\Debug\balok.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\balok\balok\obj\Debug\balok.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\balok\balok\obj\Debug\balok.vbproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\balok\balok\obj\Debug\balok.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\balok\balok\obj\Debug\balok.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\balok\balok\obj\Debug\balok.pdb
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan3\PRAKTIKUM3\balok\balok\bin\Debug\balok.exe.config
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan3\PRAKTIKUM3\balok\balok\obj\Debug\balok.exe
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan3\PRAKTIKUM3\balok\balok\obj\Debug\balok.xml
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan3\PRAKTIKUM3\balok\balok\obj\Debug\balok.pdb
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan3\PRAKTIKUM3\balok\balok\bin\Debug\balok.exe
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan3\PRAKTIKUM3\balok\balok\bin\Debug\balok.pdb
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan3\PRAKTIKUM3\balok\balok\bin\Debug\balok.xml
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan3\PRAKTIKUM3\balok\balok\obj\Debug\balok.vbprojResolveAssemblyReference.cache
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan3\PRAKTIKUM3\balok\balok\obj\Debug\balok.Form1.resources
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan3\PRAKTIKUM3\balok\balok\obj\Debug\balok.Resources.resources
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan3\PRAKTIKUM3\balok\balok\obj\Debug\balok.vbproj.GenerateResource.Cache
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Ajeng\Pemrograman visual\Pertemuan3\PRAKTIKUM3\balok\balok\bin\Debug\balok.exe.config
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Ajeng\Pemrograman visual\Pertemuan3\PRAKTIKUM3\balok\balok\obj\Debug\balok.exe
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Ajeng\Pemrograman visual\Pertemuan3\PRAKTIKUM3\balok\balok\obj\Debug\balok.xml
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Ajeng\Pemrograman visual\Pertemuan3\PRAKTIKUM3\balok\balok\obj\Debug\balok.pdb
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Ajeng\Pemrograman visual\Pertemuan3\PRAKTIKUM3\balok\balok\bin\Debug\balok.exe
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Ajeng\Pemrograman visual\Pertemuan3\PRAKTIKUM3\balok\balok\bin\Debug\balok.pdb
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Ajeng\Pemrograman visual\Pertemuan3\PRAKTIKUM3\balok\balok\bin\Debug\balok.xml
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Ajeng\Pemrograman visual\Pertemuan3\PRAKTIKUM3\balok\balok\obj\Debug\balok.vbprojResolveAssemblyReference.cache
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Ajeng\Pemrograman visual\Pertemuan3\PRAKTIKUM3\balok\balok\obj\Debug\balok.Form1.resources
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Ajeng\Pemrograman visual\Pertemuan3\PRAKTIKUM3\balok\balok\obj\Debug\balok.Resources.resources
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Ajeng\Pemrograman visual\Pertemuan3\PRAKTIKUM3\balok\balok\obj\Debug\balok.vbproj.GenerateResource.Cache
