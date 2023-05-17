@@ -1,0 +1,33 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\Lingkaran\Lingkaran\bin\Debug\Lingkaran.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\Lingkaran\Lingkaran\bin\Debug\Lingkaran.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Lingkaran\Lingkaran\bin\Debug\Lingkaran.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\Lingkaran\Lingkaran\bin\Debug\Lingkaran.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\Lingkaran\Lingkaran\obj\Debug\Lingkaran.vbprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Lingkaran\Lingkaran\obj\Debug\Lingkaran.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Lingkaran\Lingkaran\obj\Debug\Lingkaran.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\Lingkaran\Lingkaran\obj\Debug\Lingkaran.vbproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Lingkaran\Lingkaran\obj\Debug\Lingkaran.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\Lingkaran\Lingkaran\obj\Debug\Lingkaran.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\Lingkaran\Lingkaran\obj\Debug\Lingkaran.pdb
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan3\LATIHAN3\Lingkaran\Lingkaran\bin\Debug\Lingkaran.exe.config
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan3\LATIHAN3\Lingkaran\Lingkaran\obj\Debug\Lingkaran.exe
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan3\LATIHAN3\Lingkaran\Lingkaran\obj\Debug\Lingkaran.xml
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan3\LATIHAN3\Lingkaran\Lingkaran\obj\Debug\Lingkaran.pdb
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan3\LATIHAN3\Lingkaran\Lingkaran\bin\Debug\Lingkaran.exe
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan3\LATIHAN3\Lingkaran\Lingkaran\bin\Debug\Lingkaran.pdb
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan3\LATIHAN3\Lingkaran\Lingkaran\bin\Debug\Lingkaran.xml
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan3\LATIHAN3\Lingkaran\Lingkaran\obj\Debug\Lingkaran.vbprojResolveAssemblyReference.cache
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan3\LATIHAN3\Lingkaran\Lingkaran\obj\Debug\Lingkaran.Form1.resources
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan3\LATIHAN3\Lingkaran\Lingkaran\obj\Debug\Lingkaran.Resources.resources
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Niko\pemrograman visual\Pertemuan3\LATIHAN3\Lingkaran\Lingkaran\obj\Debug\Lingkaran.vbproj.GenerateResource.Cache
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Ajeng\Pemrograman visual\Pertemuan3\LATIHAN3\Lingkaran\Lingkaran\bin\Debug\Lingkaran.exe.config
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Ajeng\Pemrograman visual\Pertemuan3\LATIHAN3\Lingkaran\Lingkaran\obj\Debug\Lingkaran.exe
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Ajeng\Pemrograman visual\Pertemuan3\LATIHAN3\Lingkaran\Lingkaran\obj\Debug\Lingkaran.xml
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Ajeng\Pemrograman visual\Pertemuan3\LATIHAN3\Lingkaran\Lingkaran\obj\Debug\Lingkaran.pdb
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Ajeng\Pemrograman visual\Pertemuan3\LATIHAN3\Lingkaran\Lingkaran\bin\Debug\Lingkaran.exe
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Ajeng\Pemrograman visual\Pertemuan3\LATIHAN3\Lingkaran\Lingkaran\bin\Debug\Lingkaran.pdb
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Ajeng\Pemrograman visual\Pertemuan3\LATIHAN3\Lingkaran\Lingkaran\bin\Debug\Lingkaran.xml
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Ajeng\Pemrograman visual\Pertemuan3\LATIHAN3\Lingkaran\Lingkaran\obj\Debug\Lingkaran.vbprojResolveAssemblyReference.cache
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Ajeng\Pemrograman visual\Pertemuan3\LATIHAN3\Lingkaran\Lingkaran\obj\Debug\Lingkaran.Form1.resources
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Ajeng\Pemrograman visual\Pertemuan3\LATIHAN3\Lingkaran\Lingkaran\obj\Debug\Lingkaran.Resources.resources
+C:\Users\sindi nur fadilah\Documents\CAMPURAN\Ajeng\Pemrograman visual\Pertemuan3\LATIHAN3\Lingkaran\Lingkaran\obj\Debug\Lingkaran.vbproj.GenerateResource.Cache
